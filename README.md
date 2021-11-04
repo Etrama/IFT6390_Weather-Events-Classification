@@ -9,7 +9,7 @@ The 3 notebooks are:
 3. Final_Sub_RF_SMOTE_Tomek_with_dups.ipynb - This is the one of the 2 final submissions to Kaggle, which works on synthetic data with duplicates.
 
 To run the Logistic_Regression_Attempt1.ipynb notebook:
-We need the notebook to be run in a folder which contains a folder called /ift3395-6390-weatherevents/ which has the train and test csvs within it. The rest of the notebook is pretty self-contained and we should be able to run the .ipynb cells line by line.
+We need the notebook to be run in a folder which contains a folder called /ift3395-6390-weatherevents/ which has the train and test csvs within it. The rest of the notebook is pretty self-contained and we should be able to run the .ipynb cells line by line. The data is meant to be downloaded from Kaggle.
 
 To run the Final_Sub_RF_SMOTE_without_dups.ipynb
 For this notebook we need the data to be in the same folder as above i.e. /ift3395-6390-weatherevents/ which has the train and test csvs within it. The rest of the notebook is pretty self-contained and we should be able to run the .ipynb cells line by line.
