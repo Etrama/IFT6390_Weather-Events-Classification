@@ -1,4 +1,4 @@
-# IFT6390_Weather-Events-Classification_Kaggle-Data-Challenge-1_2021
+# IFT6390_Weather-Events-Classification
 The submission contains 3 .ipynb notebooks.
 
 These submissions are a part of larger repository of notebooks @ https://github.com/Etrama/IFT6390_Weather-Events-Classification_Kaggle-Data-Challenge-1_2021
